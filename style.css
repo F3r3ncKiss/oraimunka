@@ -1,0 +1,22 @@
+#tartalom {
+    width: 600px;
+    height: auto;
+    background-image: url('fazs.png'); /* Tetszőleges háttérkép */
+    background-color: rgba(0, 0, 0, 0.7); /* 70%-ban átlátszó fekete */
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.focim, .alcim2, .alcim3 {
+    /* Tetszőleges formázás */
+}
+
+.bekezd {
+    text-align: justify; /* Sorkizárt elrendezés */
+    font-family: Arial, sans-serif; /* Arial betűtípus */
+}
+
+#resztvevok {
+    background-color: black; /* Fekete hátterű */
+    color: white; /* Fehér betűszín */
+}
